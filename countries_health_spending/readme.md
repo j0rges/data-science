@@ -1,4 +1,4 @@
 ## Data ##
 
-I collect GDP, population, health expenditure per capita and life expectancy for countries through the world banks api. Got the coninent data from [here](https://github.com/dbouquin/IS_608/blob/master/NanosatDB_munging/Countries-Continents.csv).
-
+I collect GDP, population, health expenditure per capita and life expectancy for countries through the world banks api. Scraped the data about the continent from [world atlas](https://www.worldatlas.com/cntycont.htm). However, because the world bank generally works in terms of territories, whilst world atlas works in terms of countries, there is some gaps.
+ 
